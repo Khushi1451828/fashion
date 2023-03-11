@@ -1,0 +1,182 @@
+body,html{
+    margin:0;
+    padding:0;
+    height:100%;
+
+    
+}
+.back{
+  position: relative;
+  background-image: url('https://www.inspiredluv.com/wp-content/uploads/2016/03/winter-fashion-ideas.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:100%;
+  filter: blur(4px);
+  width: 100%;
+
+}
+.content{
+  position: absolute;
+  /* text-align: center; */
+   top:20px;
+  /* left:20px; */ 
+
+}
+
+
+  .urban{
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 50px;
+    margin:0;
+    color:rgb(245, 174, 69);
+    text-shadow: 5px 5px black;
+  }
+  .fashion{
+    font-size: 25px;
+    margin-left: 70px;
+    margin-top:1px;
+    color:rgb(39, 183, 34);
+    text-shadow: 3px 3px black;
+    font-weight: bold;
+    font-family: 'Tilt Neon', cursive;
+
+  }
+  
+  .home,.about,.collections,.cat{
+   
+    padding:5px;
+    /* top:2px; */
+    border:2px solid rgb(156, 240, 153);
+    padding: 5px;
+    margin:4px;
+    border-radius: 5px;
+    font-weight: bolder;
+    font-family: 'Tilt Neon', cursive;
+    /* text-decoration: none; */
+    background-color: rgb(194, 211, 211);
+    color:brown;
+    display: inline-flex;
+    /* justify-content: space-between; */
+
+   margin:0;
+   /* margin-top:1px; */
+   margin-left:350px;
+   top:17px;
+   position: absolute;
+   /* text-decoration: none; */
+    
+    
+    
+  }
+  .button{
+    margin-top:130px;
+    margin-left:300px;
+    padding:10px;
+    border:2px solid rgb(244, 244, 247);
+    border-radius:10px;
+    text-decoration: none;
+    background-color: rgb(246, 139, 52);
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+  }
+  .button:hover{
+    background-color: rgb(231, 231, 99);
+    cursor: pointer;
+  }
+  .home{
+    margin-left:320px;
+    
+  }
+  .about{
+    margin-left:385px; 
+  }
+  .collections{
+    margin-left:450px;
+  }
+  .cat{
+    margin-left:550px;
+
+    
+  }
+  .pretty{
+    margin-left:300px;
+    font-size: 45px;
+    color:white;
+    margin-top:35px;
+  }
+  .content1{
+    margin-left:300px;
+    font-size:20px;
+    color:rgb(238, 38, 11);
+    font-family: 'Tilt Neon', cursive;
+    /* font-weight: bold; */
+    margin-top: 0;
+    text-shadow: 2px 2px rgb(249, 246, 246);
+  }
+  .content1:hover{
+    font-size:22px;
+    
+  }
+  a{
+    text-decoration: none;
+    color:black;
+  }
+  .arrow{
+margin-top:5px;
+  }
+  .arrow1{
+    height:50px;
+    width:50px;
+    margin-left:400px;
+  }
+  .arrow2{
+    height:50px;
+    width:50px;
+    margin-left:5px;
+  }
+  
+  .nav2{
+    position:fixed;
+  }
+  .img1{
+    height:30px;
+    width:30px;
+    margin:5px;
+    margin-left:15px;
+    
+  }
+  .img1:hover{
+    border:2px solid white;
+    border-radius: 3px;
+    background-color: white;
+    padding:2px;
+  }
+  .img2:hover{
+    border:2px solid white;
+    border-radius: 3px;
+    background-color: white;
+    padding:2px;
+  }
+  .img3:hover{
+    border:2px solid white;
+    border-radius: 3px;
+    background-color: white;
+    padding:2px;
+  }
+  
+  .img2{
+    height:30px;
+    width:40px;
+    margin:5px;
+
+  }
+  .img3{
+    height:30px;
+    width:30px;
+    margin:5px;
+
+  }
+  
+  
